@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <string.h>
-#include "DaqhatsLib.hpp"
-#include "daqhats_utils.h"
+#include "DaqhatsLib.h"
+#include "daqhats/daqhats_utils.h"
 
 void initDAQ_HAT();
 

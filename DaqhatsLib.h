@@ -1,7 +1,7 @@
 #ifndef DAQHATS_UTILS
 #define DAQHATS_UTILS
 
-//#include "daqhats_utils.h"
+#include "daqhats/daqhats_utils.h"
 
 class DaqhatsLib {
 public:

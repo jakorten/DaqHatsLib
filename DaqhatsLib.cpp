@@ -1,4 +1,4 @@
-#include "DaqhatsLib.hpp"
+#include "DaqhatsLib.h"
 
 DaqhatsLib::DaqhatsLib() {
     // Initialize, if necessary

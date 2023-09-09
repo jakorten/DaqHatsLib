@@ -1,4 +1,4 @@
-INSTALL_DIR = ./
+INSTALL_DIR = ./daqhats
 
 .PHONY: all clean install
 
