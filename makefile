@@ -1,4 +1,4 @@
-INSTALL_DIR = /usr/local/include/daqhats
+INSTALL_DIR = ./
 
 .PHONY: all clean install
 
